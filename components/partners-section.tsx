@@ -23,7 +23,7 @@ const categories = [
 
 const universityPartners = [
   { name: "IIT Madras", location: "Chennai, India", image: "/images/IIT Madras.png", tag: "Premier Institute" },
-  { name: "Kalinga University", location: "Raipur, India", image: "/images/kalinga.png", tag: "Academic Partner" },
+  { name: "Kalinga University", location: "Raipur, India", image: "/images/Kalinga.png", tag: "Academic Partner" },
   { name: "Aurora University", location: "Hyderabad, India", image: "/images/ar.jpg", tag: "Academic Partner" },
   { name: "SHAUTS University", location: "India", image: "/images/sam.jpg", tag: "Research Partner" },
 ]
